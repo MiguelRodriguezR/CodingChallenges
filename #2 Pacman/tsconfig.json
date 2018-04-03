@@ -1,0 +1,10 @@
+{
+  "compileOnSave":true,
+  "compilerOptions": {
+        "target": "es5",
+        "noImplicitAny": false,
+        "module":"es2015",
+        "moduleResolution":"classic",
+        "lib":["es2016", "dom"]
+    }
+}
